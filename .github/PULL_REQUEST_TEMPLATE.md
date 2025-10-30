@@ -18,6 +18,10 @@
 ## Related issues
 <!-- Link issues this PR addresses. Use 'Fixes #123' to auto-close. -->
 
+## AI assistance disclosure
+<!-- Did you use AI to write any part of this PR? If yes, specify what tool and for what parts. -->
+<!-- Example: "GitHub Copilot used for test fixtures" or "None" -->
+
 ## Notes for reviewers
 <!-- Anything specific you want reviewers to look at? -->
 

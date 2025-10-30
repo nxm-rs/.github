@@ -8,6 +8,33 @@ Thanks for considering contributing. Here's how to do it without wasting time.
 2. **Open an issue first** - Unless it's a typo fix. Let's agree on the problem before you code the solution
 3. **One PR, one thing** - Don't bundle unrelated changes
 
+## AI Assistance Disclosure
+
+**If AI wrote any part of your contribution, you must say so in the PR.**
+
+This includes:
+- Code generation beyond basic autocomplete
+- Documentation or comments
+- PR descriptions and commit messages
+- Review responses
+
+### Why we care
+
+1. **Respect for reviewers** - We need to know if we're reviewing human or AI work. It affects how we review.
+2. **You own your code** - If you submit it, you must understand it. Be ready to explain every line.
+3. **Quality bar** - AI often generates mediocre code that needs heavy editing. Low-quality AI slop will be rejected.
+
+### How to disclose
+
+In your PR description, add:
+```
+AI Assistance: [Tool name] used for [what parts]
+```
+
+Example: "AI Assistance: GitHub Copilot used for test boilerplate generation"
+
+Not disclosing AI use when discovered will result in PR closure and potentially a ban. We use AI detection tools and we're good at spotting patterns.
+
 ## Code standards
 
 - **It should work** - Test your code. "It compiles" isn't enough
@@ -17,12 +44,29 @@ Thanks for considering contributing. Here's how to do it without wasting time.
 
 ## Pull Request Process
 
-1. Fork and create your branch from `main`
-2. Write code that actually solves the problem
-3. Add tests if you're adding features
-4. Update docs if you're changing behavior
-5. Make sure all tests pass
-6. Submit PR with a clear description
+### Before opening a PR
+
+1. **Link to an issue** - PRs without linked issues may be ignored or closed. We discuss first, code second.
+2. **Fork and branch** - Create your branch from `main`
+3. **Self-review** - Review your own code before wasting our time. Check:
+   - All tests pass
+   - No compiler warnings
+   - Code follows existing patterns
+   - You've actually tested it manually
+
+### PR requirements
+
+Your PR description must include:
+- **What**: Clear description of changes
+- **Why**: Link to issue being solved
+- **Testing**: How you tested it (unit tests aren't enough)
+- **AI Assistance**: Disclosure if AI was used
+
+### After opening a PR
+
+1. Be responsive to feedback or your PR gets closed
+2. Be ready to explain your code
+3. Don't argue about style - use the formatter
 
 ## What we're looking for
 
