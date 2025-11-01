@@ -11,32 +11,13 @@
 
 </div>
 
----
+## 
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+| Products | Principles |
+|----------|------------|
+| **[nexum](https://github.com/nxm-rs/nexum)** → Ethereum wallet for terminal users<br><br>**[vertex](https://github.com/nxm-rs/vertex)** → Swarm node that works | • Ship code, not promises<br>• Fix what matters<br>• Kill useless process |
 
-### Products
-
-**[nexum](https://github.com/nxm-rs/nexum)** → Ethereum wallet for terminal users
-
-**[vertex](https://github.com/nxm-rs/vertex)** → Swarm node that works
-
-</td>
-<td width="50%" valign="top">
-
-### Principles
-
-• Ship code, not promises
-
-• Fix what matters
-
-• Kill useless process
-
-</td>
-</tr>
-</table>
+##
 
 <div align="center">
 <sub>Most things are broken. We're fixing them. PRs welcome if they actually improve things.</sub>
