@@ -1,6 +1,6 @@
 <div align="center">
 
-# nxm-rs
+# Nexum Labs
 
 **Rust tools that actually work. No buzzwords, just code that ships.**
 
@@ -11,13 +11,18 @@
 
 </div>
 
-## 
+<br>
 
-| Products | Principles |
-|----------|------------|
-| **[nexum](https://github.com/nxm-rs/nexum)** → Ethereum wallet for terminal users<br><br>**[vertex](https://github.com/nxm-rs/vertex)** → Swarm node that works | • Ship code, not promises<br>• Fix what matters<br>• Kill useless process |
+### 📦 Products
 
-##
+**[nexum](https://github.com/nxm-rs/nexum)** – Ethereum wallet for terminal users  
+**[vertex](https://github.com/nxm-rs/vertex)** – Swarm node that works
+
+### ⚡ Principles
+
+Ship code, not promises • Fix what matters • Kill useless process
+
+<br>
 
 <div align="center">
 <sub>Most things are broken. We're fixing them. PRs welcome if they actually improve things.</sub>
