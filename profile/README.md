@@ -18,15 +18,20 @@
 <td width="50%" valign="top">
 
 ### Products
+
 **[nexum](https://github.com/nxm-rs/nexum)** → Ethereum wallet for terminal users
+
 **[vertex](https://github.com/nxm-rs/vertex)** → Swarm node that works
 
 </td>
 <td width="50%" valign="top">
 
 ### Principles
+
 • Ship code, not promises
+
 • Fix what matters
+
 • Kill useless process
 
 </td>
