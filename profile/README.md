@@ -13,17 +13,17 @@
 
 <br>
 
-### 📦 Products
+### Products
 
-**[nexum](https://github.com/nxm-rs/nexum)** – Ethereum wallet for terminal users  
-**[vertex](https://github.com/nxm-rs/vertex)** – Swarm node that works
+**[nexum](https://github.com/nxm-rs/nexum)**: Ethereum wallet for terminal users
+**[vertex](https://github.com/nxm-rs/vertex)**: Swarm node that works
 
-### ⚡ Principles
+### Principles
 
-Ship code, not promises • Fix what matters • Kill useless process
+Ship code, not promises. Fix what matters. Kill useless process.
 
 <br>
 
 <div align="center">
-<sub>Most things are broken. We're fixing them. PRs welcome if they actually improve things.</sub>
+<sub>Most things are broken. We are fixing them. PRs welcome if they actually improve things.</sub>
 </div>
