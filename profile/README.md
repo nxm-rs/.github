@@ -16,6 +16,7 @@
 ### Products
 
 **[nexum](https://github.com/nxm-rs/nexum)**: Ethereum wallet for terminal users
+
 **[vertex](https://github.com/nxm-rs/vertex)**: Swarm node that works
 
 ### Principles
