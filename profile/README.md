@@ -50,18 +50,12 @@ The decentralised storage layer Nexum builds on for content-addressed rulesets, 
 - **AGPL-3.0.** Forks are welcome. Closed-source derivatives are not.
 - **Reproducible builds.** Every release will publish its bytecode SHA-256 before the stores see it.
 
-## Status
-
-The wallet is being built in the open. There is no App Store listing, no APK, no signed binary. The CI that produces a reproducible SHA-256 is itself in build — the first deterministic green build will be the first one we publish.
-
-Until then: clone, read, build locally.
-
 ---
 
 ## Get involved
 
-- **Bug?** File an issue on the relevant repo with a reproducer. We reply within 48h.
-- **Security?** See [SECURITY.md](https://github.com/nxm-rs/.github/blob/main/SECURITY.md) on any repo, or email `security@nxm.rs`.
+- **Bug?** File an issue on the relevant repo with a reproducer.
+- **Security?** See [SECURITY.md](https://github.com/nxm-rs/.github/blob/main/SECURITY.md) or email `security@nxm.rs`.
 - **Code?** Read [CONTRIBUTING.md](https://github.com/nxm-rs/.github/blob/main/CONTRIBUTING.md). Conventional commits, semver, reproducible CI.
 - **Lurk?** `#nexum` on libera.chat · or watch the GitHub org for releases, RFCs, and advisories.
 
