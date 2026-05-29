@@ -1,20 +1,6 @@
-```
-┌─────────────────────────────────┐
-│  ●  N E X U M                   │
-│                                 │
-│     self-sovereign              │
-│     ethereum tooling            │
-│                                 │
-│  ●  never servers               │
-│  ●  never telemetry             │
-│  ●  never a token               │
-│  ●  never vc equity             │
-│  ●  source before binaries      │
-│                                 │
-│  LICENSE   AGPL-3.0             │
-│  STATUS    pre-release          │
-└─────────────────────────────────┘
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nxm-rs/.github/main/profile/banner.svg" alt="Nexum — self-sovereign Ethereum tooling" width="100%" />
+</p>
 
 Building a self-sovereign mobile wallet on **derivation, not custody** — and the Rust tooling underneath it. Your seed lives on the device, or on a smartcard in your hand. Balances, signatures, and RPC responses are independently verified against beacon-chain proofs. We refuse to trust what we can't verify.
 
