@@ -17,9 +17,7 @@ Building a self-sovereign mobile wallet on **derivation, not custody** — and t
 | **[wallet](https://github.com/nxm-rs/wallet)** | Self-sovereign mobile wallet · Rust core + Flutter UI · *private during pre-release* |
 | **[nexum](https://github.com/nxm-rs/nexum)** | Terminal + browser-extension Ethereum provider · EIP-1193, WASM, WebTransport |
 | **[keycard](https://github.com/nxm-rs/keycard)** | Rust SDK + CLI for Status Keycards · PC/SC transport · alloy signer |
-| **[nexum-apdu](https://github.com/nxm-rs/nexum-apdu)** | ISO-7816 smart-card APDU toolkit · GlobalPlatform · PC/SC |
-| **[nexum-kit](https://github.com/nxm-rs/nexum-kit)** | Type-safe Web3 wallet connection kit for Leptos · RainbowKit in Rust/WASM |
-| **[nexum-chrome-sys](https://github.com/nxm-rs/nexum-chrome-sys)** | Type-safe `chrome.*` bindings for Rust |
+| **[apdu](https://github.com/nxm-rs/apdu)** | ISO-7816 smart-card APDU toolkit · GlobalPlatform · PC/SC |
 
 ## Verification
 
@@ -35,21 +33,12 @@ The decentralised storage layer Nexum builds on for content-addressed rulesets, 
 |---|---|
 | **[vertex](https://github.com/nxm-rs/vertex)** | Rust Bee-compatible Swarm node · modular, high-performance |
 | **[nectar](https://github.com/nxm-rs/nectar)** | Low-level Swarm primitives in Rust |
-| **[bee](https://github.com/nxm-rs/bee)** | Reference Go Swarm client (fork; we contribute upstream) |
-| **[swarm-contracts](https://github.com/nxm-rs/swarm-contracts)** | Swarm economic layer · Solady + Foundry |
-| **[apiarist](https://github.com/nxm-rs/apiarist)** | Swarm stress-tester, written from the inside |
-| **[apiary](https://github.com/nxm-rs/apiary)** | One-command decentralised storage stack · Reth + Bee |
-| **[SWIPs](https://github.com/nxm-rs/SWIPs)** | Swarm Improvement Proposals |
 
-## Other
+## Planning
 
 | Repo | What it is |
 |---|---|
-| **[govstack](https://github.com/nxm-rs/govstack)** | On-chain governance contracts |
-| **[ssss](https://github.com/nxm-rs/ssss)** | Shamir's secret sharing |
-| **[pm](https://github.com/nxm-rs/pm)** | Project-wide planning · RFCs, roadmap, mobile-first programme |
-| **[website](https://github.com/nxm-rs/website)** | nxm.rs sources |
-| **[.github](https://github.com/nxm-rs/.github)** | Org-wide community health files · issue/PR templates, label conventions |
+| **[pm](https://github.com/nxm-rs/pm)** | Cross-repo planning · ADRs, quarterly roadmaps |
 
 ---
 
