@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nxm-rs/.github/main/profile/banner.svg" alt="Nexum — self-sovereign Ethereum tooling" width="100%" />
+  <img src="https://raw.githubusercontent.com/nxm-rs/.github/main/profile/banner.svg" alt="Nexum — a verifiable edge to the open web" width="100%" />
 </p>
 
-Building a self-sovereign mobile wallet on **derivation, not custody** — and the Rust tooling underneath it. Your seed lives on the device, or on a smartcard in your hand. Balances, signatures, and RPC responses are independently verified against beacon-chain proofs. We refuse to trust what we can't verify.
+# A verifiable edge to the open web.
+
+**Hold your own keys. Verify the chain.**
+Self-custody · Verified RPC · open all the way down.
+
+A mobile client for Ethereum, Swarm, and Waku — running, signing, and verifying locally on your device. Keys live on the device, or on a Keycard in your hand. Source is readable today; no binary has shipped yet.
 
 [**nxm.rs**](https://nxm.rs) · [docs](https://nxm.rs/docs) · [security](https://nxm.rs/security) · [blog](https://nxm.rs/blog)
-
-> **Pre-release.** No binaries are published yet. Reading the source is the canonical way to evaluate Nexum today.
 
 ---
 
