@@ -60,7 +60,7 @@ The decentralised storage layer Nexum builds on for content-addressed rulesets, 
 - **Bug?** File an issue on the relevant repo with a reproducer.
 - **Security?** See [SECURITY.md](https://github.com/nxm-rs/.github/blob/main/SECURITY.md) or email `security@nxm.rs`.
 - **Code?** Read [CONTRIBUTING.md](https://github.com/nxm-rs/.github/blob/main/CONTRIBUTING.md). Conventional commits, semver, reproducible CI.
-- **Lurk?** `#nexum` on libera.chat · or watch the GitHub org for releases, RFCs, and advisories.
+- **Lurk?** [`#nexum:nxm.rs`](https://matrix.to/#/#nexum:nxm.rs) on Matrix · or watch the GitHub org for releases, RFCs, and advisories.
 
 ```
 ●  AGPL-3.0  ·  pre-release  ·  source-available  ·  no binaries yet
