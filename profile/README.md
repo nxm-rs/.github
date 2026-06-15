@@ -36,6 +36,7 @@ The decentralised storage layer Nexum builds on for content-addressed rulesets, 
 |---|---|
 | **[vertex](https://github.com/nxm-rs/vertex)** | Rust Bee-compatible Swarm node · modular, high-performance |
 | **[nectar](https://github.com/nxm-rs/nectar)** | Low-level Swarm primitives in Rust |
+| **[dipper](https://github.com/nxm-rs/dipper)** | cast-like CLI for Swarm · drives a vertex node over gRPC |
 
 ## Planning
 
